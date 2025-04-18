@@ -1,0 +1,781 @@
+{
+    "request_info": {
+        "success": true,
+        "credits_used": 7,
+        "credits_remaining": 93,
+        "credits_used_this_request": 1
+    },
+    "request_parameters": {
+        "amazon_domain": "amazon.com",
+        "asin": "B0D3HQF1WD",
+        "type": "product"
+    },
+    "request_metadata": {
+        "created_at": "2025-04-16T07:09:00.692Z",
+        "processed_at": "2025-04-16T07:09:06.769Z",
+        "total_time_taken": 6.08,
+        "amazon_url": "https://www.amazon.com/dp/B0D3HQF1WD?th=1&psc=1"
+    },
+    "product": {
+        "title": "DARKROCK D360 CPU Liquid Cooler with 360mm Radiator, Addressable RGB Lights, Pure Copper Pump, and AMD, AM5/ AM4, Intel LGA 1851/1700/1200 Brackets Ready - Black",
+        "search_alias": {
+            "title": "Industrial & Scientific",
+            "value": "industrial"
+        },
+        "keywords": "DARKROCK,D360,CPU,Liquid,Cooler,with,360mm,Radiator,Addressable,RGB,Lights,Pure,Copper,Pump,and,AMD,AM5/,AM4,Intel,LGA,1851/1700/1200,Brackets,Ready,Black",
+        "keywords_list": [
+            "DARKROCK",
+            "D360",
+            "Liquid",
+            "Cooler",
+            "with",
+            "360mm",
+            "Radiator",
+            "Addressable",
+            "Lights",
+            "Pure",
+            "Copper",
+            "Pump",
+            "AM5/",
+            "Intel",
+            "1851/1700/1200",
+            "Brackets",
+            "Ready",
+            "Black"
+        ],
+        "is_collection": false,
+        "asin": "B0D3HQF1WD",
+        "parent_asin": "B0DGG89F5H",
+        "link": "https://www.amazon.com/DARKROCK-Liquid-Radiator-Addressable-Brackets/dp/B0DGG89F5H",
+        "brand": "DARKROCK",
+        "protection_plans": [
+            {
+                "asin": "B07Q4777HZ",
+                "title": "3-Year Protection Plan",
+                "price": {
+                    "symbol": "$",
+                    "value": 8.99,
+                    "currency": "USD",
+                    "raw": "$8.99"
+                }
+            },
+            {
+                "asin": "B07Q37N4TD",
+                "title": "4-Year Protection Plan",
+                "price": {
+                    "symbol": "$",
+                    "value": 11.99,
+                    "currency": "USD",
+                    "raw": "$11.99"
+                }
+            },
+            {
+                "asin": "B07RZ3LSHM",
+                "title": "Asurion Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+                "price": {
+                    "symbol": "$",
+                    "value": 16.99,
+                    "currency": "USD",
+                    "raw": "$16.99/month"
+                }
+            }
+        ],
+        "sell_on_amazon": false,
+        "variants": [
+            {
+                "is_current_product": true,
+                "title": "D360",
+                "dimensions": [
+                    {
+                        "name": "size",
+                        "value": "D360"
+                    }
+                ],
+                "asin": "B0D3HQF1WD",
+                "link": "https://amazon.com/dp/B0D3HQF1WD?th=1"
+            },
+            {
+                "is_current_product": false,
+                "title": "D240",
+                "dimensions": [
+                    {
+                        "name": "size",
+                        "value": "D240"
+                    }
+                ],
+                "asin": "B0D3HQZ7QQ",
+                "link": "https://amazon.com/dp/B0D3HQZ7QQ?th=1"
+            }
+        ],
+        "variant_asins_flat": "B0D3HQF1WD,B0D3HQZ7QQ",
+        "proposition_65_warning": false,
+        "has_size_guide": true,
+        "documents": [
+            {
+                "name": "Installation Manual (PDF)",
+                "link": "https://m.media-amazon.com/images/I/D144f7gIUNL.pdf"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Industrial & Scientific"
+            },
+            {
+                "name": "Electronics",
+                "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+                "category_id": "172282"
+            },
+            {
+                "name": "Computers & Accessories",
+                "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+                "category_id": "541966"
+            },
+            {
+                "name": "Computer Components",
+                "link": "https://www.amazon.com/PC-Parts-Components/b/ref=dp_bc_3?ie=UTF8&node=193870011",
+                "category_id": "193870011"
+            },
+            {
+                "name": "Internal Components",
+                "link": "https://www.amazon.com/b/ref=dp_bc_4?ie=UTF8&node=17923671011",
+                "category_id": "17923671011"
+            },
+            {
+                "name": "Fans & Cooling",
+                "link": "https://www.amazon.com/Internal-Fans-Cooling-Components/b/ref=dp_bc_5?ie=UTF8&node=3012290011",
+                "category_id": "3012290011"
+            },
+            {
+                "name": "Water Cooling Systems",
+                "link": "https://www.amazon.com/Water-Cooling-Systems/b/ref=dp_bc_6?ie=UTF8&node=3015422011",
+                "category_id": "3015422011"
+            }
+        ],
+        "categories_flat": "Industrial & Scientific > Electronics > Computers & Accessories > Computer Components > Internal Components > Fans & Cooling > Water Cooling Systems",
+        "a_plus_content": {
+            "has_a_plus_content": true,
+            "has_brand_story": true,
+            "brand_story": {
+                "brand_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b53b5c15-70a0-4a81-bc82-cae49599957a.__CR0,0,315,145_PT0_SX315_V1___.jpg",
+                "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/14840200-58de-4098-9f6a-ddff29af9d7b.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+                "description": "DARKROCK is a computer hardware brand from the United States, mainly producing cases and CPU coolers.",
+                "images": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/14840200-58de-4098-9f6a-ddff29af9d7b.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3ed4b8e8-a4f0-4fc3-a969-64c55e161d4a.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/da37e0bd-47ef-4d5a-aecb-220a2c8de6c9.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/846b8096-0c23-456e-9948-9f685ec3132f.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4c363964-2bfe-4edc-b1cf-609a4e645925.__CR201,0,1598,2000_PT0_SX362_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/69fb8608-0417-4df1-82b7-7629d03e0f14.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c54f96b3-e506-40de-bac0-ad16c089f6eb.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b6b5780e-63dd-43c9-8d4e-57ceb91a328c.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+                ],
+                "faqs": [
+                    {
+                        "title": "How to describe our products?",
+                        "body": "DARKROCK's products only use the all-black concept, dedicated to creating a distinctive look, with ARGB fans and light bars to give consumers an extraordinary experience."
+                    },
+                    {
+                        "title": "Whether our products are of high quality?",
+                        "body": "There is no doubt about it. we are committed to creating a product of superior quality. The tempered glass and iron plates keep the case from feeling plastic, and the dust filter configuration gives the case great cooling performance."
+                    }
+                ]
+            },
+            "third_party": true,
+            "company_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b53b5c15-70a0-4a81-bc82-cae49599957a.__CR0,0,315,145_PT0_SX315_V1___.jpg",
+            "company_description_text": "DARKROCK is a computer hardware brand from the United States, mainly producing cases and CPU coolers. The original intention of DARKROCK product design is to serve game enthusiasts and people who have strict requirements on computer configuration."
+        },
+        "sub_title": {
+            "text": "Visit the DARKROCK Store",
+            "link": "https://www.amazon.com/stores/DARKROCK/page/05A96EC3-7BC6-4877-926F-CDD98356ADCA?lp_asin=B0D3HQF1WD&ref_=ast_bln"
+        },
+        "rating": 4.6,
+        "rating_breakdown": {
+            "five_star": {
+                "percentage": 79,
+                "count": 69
+            },
+            "four_star": {
+                "percentage": 15,
+                "count": 13
+            },
+            "three_star": {
+                "percentage": 2,
+                "count": 1
+            },
+            "two_star": {
+                "percentage": 2,
+                "count": 1
+            },
+            "one_star": {
+                "percentage": 2,
+                "count": 1
+            }
+        },
+        "ratings_total": 88,
+        "main_image": {
+            "link": "https://m.media-amazon.com/images/I/61TjIvF56CL.jpg"
+        },
+        "images": [
+            {
+                "link": "https://m.media-amazon.com/images/I/61TjIvF56CL._SL1500_.jpg",
+                "variant": "MAIN"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/81FsJmjM0bL._SL1500_.jpg",
+                "variant": "PT01"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/71LMdueonPL._SL1500_.jpg",
+                "variant": "PT02"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/71J5osAJTlL._SL1500_.jpg",
+                "variant": "PT03"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/71++LZ1UyIL._SL1500_.jpg",
+                "variant": "PT04"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/71myNqI2m-L._SL1500_.jpg",
+                "variant": "PT05"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/71viSk+xIZL._SL1500_.jpg",
+                "variant": "PT06"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/71UiJ7xioUL._SL1500_.jpg",
+                "variant": "PT07"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/81es+PPry3L._SL1500_.jpg",
+                "variant": "PT08"
+            }
+        ],
+        "images_count": 9,
+        "images_flat": "https://m.media-amazon.com/images/I/61TjIvF56CL._SL1500_.jpg,https://m.media-amazon.com/images/I/81FsJmjM0bL._SL1500_.jpg,https://m.media-amazon.com/images/I/71LMdueonPL._SL1500_.jpg,https://m.media-amazon.com/images/I/71J5osAJTlL._SL1500_.jpg,https://m.media-amazon.com/images/I/71++LZ1UyIL._SL1500_.jpg,https://m.media-amazon.com/images/I/71myNqI2m-L._SL1500_.jpg,https://m.media-amazon.com/images/I/71viSk+xIZL._SL1500_.jpg,https://m.media-amazon.com/images/I/71UiJ7xioUL._SL1500_.jpg,https://m.media-amazon.com/images/I/81es+PPry3L._SL1500_.jpg",
+        "videos": [
+            {
+                "duration_seconds": 125,
+                "width": 1834,
+                "height": 880,
+                "thumbnail": "https://m.media-amazon.com/images/I/A1+vE-uzXlL.png",
+                "group_id": "IB_G1",
+                "group_type": "videos_for_this_product",
+                "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/310a76a6-a15e-4b7c-b984-c2d511c97db6/videopreview.jobtemplate.mp4.default.mp4",
+                "title": "Installation Video of D240 & D360"
+            },
+            {
+                "duration_seconds": 46,
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "https://m.media-amazon.com/images/I/91LY2N3TL1L.jpg",
+                "group_id": "IB_G1",
+                "group_type": "videos_for_this_product",
+                "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8832d6aa-838f-437b-bc33-e302b9a5f7d7/videopreview.jobtemplate.mp4.default.mp4",
+                "title": "D360 Liquid Cooling System"
+            }
+        ],
+        "videos_count": 2,
+        "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/310a76a6-a15e-4b7c-b984-c2d511c97db6/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8832d6aa-838f-437b-bc33-e302b9a5f7d7/videopreview.jobtemplate.mp4.default.mp4",
+        "videos_additional": [
+            {
+                "id": "amzn1.vse.video.0ce8c2379f4f42bc9e13d1cc84d3211a",
+                "product_asin": "B0D3HQF1WD",
+                "parent_asin": "B0DGG89F5H",
+                "related_products": "B0D3HQZ7QQ,B0D3HQF1WD",
+                "title": "Installation Video of D240 & D360",
+                "public_name": "DARKROCK",
+                "creator_type": "Seller",
+                "vendor_code": "Z7AX4",
+                "vendor_name": "DARKROCK",
+                "video_image_id": "A1+vE-uzXlL",
+                "video_image_url": "https://m.media-amazon.com/images/I/A1+vE-uzXlL._CR137,0,1559,880_SR684,386_.png",
+                "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1+vE-uzXlL.png",
+                "video_image_width": "1834",
+                "video_image_height": "880",
+                "video_image_extension": "png",
+                "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3931b413-96e2-4eb9-97ad-fc35e7ba9182/default.jobtemplate.hls.m3u8",
+                "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/310a76a6-a15e-4b7c-b984-c2d511c97db6/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/310a76a6-a15e-4b7c-b984-c2d511c97db6/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/310a76a6-a15e-4b7c-b984-c2d511c97db6/ef4aa7e1-d351-483e-ae05-b3e9f15ef21b/0ce8c2379f4f42bc9e13d1cc84d3211a_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+                "video_mime_type": "application/x-mpegURL",
+                "duration": "2:05",
+                "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/2565a6ce-d225-462a-a895-5365060ad969.vtt",
+                "type": "videos_for_related_products"
+            },
+            {
+                "id": "amzn1.vse.video.012a5f89e7974fbda0534297f4c254d6",
+                "product_asin": "B0D3HQF1WD",
+                "parent_asin": "B0DGG89F5H",
+                "related_products": "B0D3HQF1WD",
+                "title": "D360 Liquid Cooling System",
+                "public_name": "DARKROCK",
+                "creator_type": "Seller",
+                "vendor_code": "Z7AX4",
+                "vendor_name": "DARKROCK",
+                "video_image_id": "91LY2N3TL1L",
+                "video_image_url": "https://m.media-amazon.com/images/I/91LY2N3TL1L._CR3,0,1914,1080_SR684,386_.jpg",
+                "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91LY2N3TL1L.jpg",
+                "video_image_width": "1920",
+                "video_image_height": "1080",
+                "video_image_extension": "jpg",
+                "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/741f1148-9420-4a93-9ee5-ff014d3b522c/default.jobtemplate.hls.m3u8",
+                "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8832d6aa-838f-437b-bc33-e302b9a5f7d7/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8832d6aa-838f-437b-bc33-e302b9a5f7d7/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8832d6aa-838f-437b-bc33-e302b9a5f7d7/c206805c-ad1d-4ad9-929c-1c6c2e55d984/012a5f89e7974fbda0534297f4c254d6_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+                "video_mime_type": "application/x-mpegURL",
+                "duration": "0:46",
+                "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4fb4d340-aae6-46cf-a9e2-9168b657abea.vtt",
+                "type": "videos_for_related_products"
+            }
+        ],
+        "has_360_view": false,
+        "is_bundle": false,
+        "feature_bullets": [
+            "Copper Base: High-performance AIO Water Cooling Systems with a pure copper base pump head and high thermal conductivity for optimal CPU cooling",
+            "Better Cooling Performance: CPU Liquid Cooler with a full copper base, aluminum fin cold plate, and braided hose, which ensures quick and efficient heat dissipation, keeping your CPU running smoothly even during heavy usage",
+            "ARGB Lighting: Addressable RGB lights on both fan and water-cooling head, creating colorful and soft light effect for efficient cooling with rich lighting effects",
+            "PWM Smart Control: Adjustable PWM fans (800 RPM - 1800 RPM) , automatically adjusting the speed according to CPU temperature, providing strong airflow and low noise",
+            "Compatibility: Extensive compatibility with Intel (LGA1851/ 1700/ 1200/ 115X) and AMD (AM5/ AM4) brackets, making it a versatile option for a wide range of systems"
+        ],
+        "feature_bullets_count": 5,
+        "feature_bullets_flat": "Compatibility: Extensive compatibility with Intel (LGA1851/ 1700/ 1200/ 115X) and AMD (AM5/ AM4) brackets, making it a versatile option for a wide range of systems. PWM Smart Control: Adjustable PWM fans (800 RPM - 1800 RPM) , automatically adjusting the speed according to CPU temperature, providing strong airflow and low noise. ARGB Lighting: Addressable RGB lights on both fan and water-cooling head, creating colorful and soft light effect for efficient cooling with rich lighting effects. Better Cooling Performance: CPU Liquid Cooler with a full copper base, aluminum fin cold plate, and braided hose, which ensures quick and efficient heat dissipation, keeping your CPU running smoothly even during heavy usage. Copper Base: High-performance AIO Water Cooling Systems with a pure copper base pump head and high thermal conductivity for optimal CPU cooling.",
+        "top_reviews": [
+            {
+                "id": "RTQYB8S2U1DFB",
+                "title": "Pleasant surprise, works pretty well",
+                "body": "Nice price and overall nice performances. I was not sure about how reliable and easy to install this could be; but in the end it is running 24/7and cooling off pretty well my Ryzen 9.  It is quite silent overall and has a good amount of lights to set it up either so it can blind you or it can be quite subtle. Read more",
+                "asin": "B0D3HQF1WD",
+                "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Nice price and overall nice performances. I was not sure about how reliable and easy to install this could be; but in the end it is running 24/7and cooling off pretty well my Ryzen 9.<br/><br/>It is quite silent overall and has a good amount of lights to set it up either so it can blind you or it can be quite subtle.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+                "link": "https://www.amazon.com/gp/customer-reviews/RTQYB8S2U1DFB/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D3HQF1WD",
+                "rating": 5,
+                "date": {
+                    "raw": "Reviewed in the United States on March 4, 2025",
+                    "utc": "2025-03-04T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "CF",
+                    "link": "https://www.amazon.com/gp/profile/amzn1.account.AGANTN6HRGMCMQP2KT7TTNZDUY3Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                    "id": "AGANTN6HRGMCMQP2KT7TTNZDUY3Q"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "review_country": "us",
+                "is_global_review": false
+            },
+            {
+                "id": "RPXB1V2PKPXC0",
+                "title": "Very good",
+                "body": "Really really good at a good price keeps my ryzen 7 7700x cool and ready to game Read more",
+                "asin": "B0D3HQF1WD",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Really really good at a good price keeps my ryzen 7 7700x cool and ready to game<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+                "link": "https://www.amazon.com/gp/customer-reviews/RPXB1V2PKPXC0/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D3HQF1WD",
+                "rating": 5,
+                "date": {
+                    "raw": "Reviewed in the United States on April 2, 2025",
+                    "utc": "2025-04-02T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "Caleb Hugh",
+                    "link": "https://www.amazon.com/gp/profile/amzn1.account.AEXBEDF3PCQLTWXY772FIU6ACQKA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                    "id": "AEXBEDF3PCQLTWXY772FIU6ACQKA"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "images": [
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    }
+                ],
+                "review_country": "us",
+                "is_global_review": false
+            },
+            {
+                "id": "R1YZ2I1MIW4WNU",
+                "title": "Works Well",
+                "body": "First time buying a liquid cooler for a CPU. so far so good. very quiet and was easy to install with the different mounting options. Read more",
+                "asin": "B0D3HQF1WD",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>First time buying a liquid cooler for a CPU. so far so good. very quiet and was easy to install with the different mounting options.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+                "link": "https://www.amazon.com/gp/customer-reviews/R1YZ2I1MIW4WNU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D3HQF1WD",
+                "rating": 5,
+                "date": {
+                    "raw": "Reviewed in the United States on February 26, 2025",
+                    "utc": "2025-02-26T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "Mike",
+                    "link": "https://www.amazon.com/gp/profile/amzn1.account.AEWWUR36HL773HJL3V3XEBHTFJ2A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                    "id": "AEWWUR36HL773HJL3V3XEBHTFJ2A"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "review_country": "us",
+                "is_global_review": false
+            },
+            {
+                "id": "R1H6O67GGSH14G",
+                "title": "Price to Performance Buy",
+                "body": "I Used it with an I7 for about 4months and it has never let me get above 56 degrees C. Under heavy load. It is currently Now on an AMD RYZEN 5 and it hasn't gotten above 54 degrees C. Under heavy load. It was very easy to put together, instructions were very clear and concise. SO far, the quality is great. It works perfectly with top mount I don't need front mount. The look from factory is Bland even with the provided a RGB Fans, I have since Purchased a different set for it and they are great, if they came with it stock, I wouldn't have minded paying a little extra instead of 2 separate purchases. The Noise level of the fans is quiet and seemed to perform well, I was just not impressed with the RGB in them. So that does not effect my review thats jmo. Read more",
+                "asin": "B0D3HQF1WD",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I Used it with an I7 for about 4months and it has never let me get above 56 degrees C. Under heavy load.<br/>It is currently Now on an AMD RYZEN 5 and it hasn&apos;t gotten above 54 degrees C. Under heavy load.<br/>It was very easy to put together, instructions were very clear and concise.<br/>SO far, the quality is great. It works perfectly with top mount I don&apos;t need front mount.<br/>The look from factory is Bland even with the provided a RGB Fans, I have since Purchased a different set for it and they are great, if they came with it stock, I wouldn&apos;t have minded paying a little extra instead of 2 separate purchases.<br/>The Noise level of the fans is quiet and seemed to perform well, I was just not impressed with the RGB in them. So that does not effect my review thats jmo.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+                "link": "https://www.amazon.com/gp/customer-reviews/R1H6O67GGSH14G/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D3HQF1WD",
+                "rating": 4,
+                "date": {
+                    "raw": "Reviewed in the United States on March 13, 2025",
+                    "utc": "2025-03-13T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "Kenneth L. McCullough",
+                    "link": "https://www.amazon.com/gp/profile/amzn1.account.AG4VUKFAD6UAX54AMBMG37DJIMSQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                    "id": "AG4VUKFAD6UAX54AMBMG37DJIMSQ",
+                    "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/19ddb728-f9fd-440c-b04f-d47c3686c1aa._CR0%2C26%2C281%2C281_UX460_.jpg"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "images": [
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    },
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    }
+                ],
+                "review_country": "us",
+                "is_global_review": false
+            },
+            {
+                "id": "R36NTGEDFM1AAW",
+                "title": "Amazing",
+                "body": "- Easy to install - Functions exceptionally well - Cools great - Looks very sleek, no random company wording anywhere - Perfect value for money!  Highly recommend! Read more",
+                "asin": "B0D3HQF1WD",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>- Easy to install<br/>- Functions exceptionally well<br/>- Cools great<br/>- Looks very sleek, no random company wording anywhere<br/>- Perfect value for money!<br/><br/>Highly recommend!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+                "link": "https://www.amazon.com/gp/customer-reviews/R36NTGEDFM1AAW/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D3HQF1WD",
+                "rating": 5,
+                "date": {
+                    "raw": "Reviewed in the United States on January 17, 2025",
+                    "utc": "2025-01-17T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "ZWolf",
+                    "link": "https://www.amazon.com/gp/profile/amzn1.account.AEIZAQHVBKTNLKIDRBY4NO4WGKFA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                    "id": "AEIZAQHVBKTNLKIDRBY4NO4WGKFA"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "review_country": "us",
+                "is_global_review": false
+            },
+            {
+                "id": "R1TRCZERQM9SJ2",
+                "title": "Solid Unit",
+                "body": "Unit is solid so far, I haven\u2019t pushed it yet but the temps seem to be holding steady and a lot cooler than prior. One thing I will note is that the logo on the fans need to be facing the radiator to push the air out, I had them pulling the warm air into the case on my initial fire up after putting it together. Other than that the install is straight forward. Read more",
+                "asin": "B0D3HQF1WD",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Unit is solid so far, I haven&#x2019;t pushed it yet but the temps seem to be holding steady and a lot cooler than prior. One thing I will note is that the logo on the fans need to be facing the radiator to push the air out, I had them pulling the warm air into the case on my initial fire up after putting it together. Other than that the install is straight forward.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+                "link": "https://www.amazon.com/gp/customer-reviews/R1TRCZERQM9SJ2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D3HQF1WD",
+                "rating": 5,
+                "date": {
+                    "raw": "Reviewed in the United States on January 4, 2025",
+                    "utc": "2025-01-04T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "James T.",
+                    "link": "https://www.amazon.com/gp/profile/amzn1.account.AFEXXNZPPZLRKSUVYMKRVZYVXAIQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                    "id": "AFEXXNZPPZLRKSUVYMKRVZYVXAIQ"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "images": [
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    },
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    },
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    }
+                ],
+                "helpful_votes": 2,
+                "review_country": "us",
+                "is_global_review": false
+            },
+            {
+                "id": "RNWIGDZ4FUBGN",
+                "title": "Awsome  CPU cooler!!",
+                "body": "Best bang for your buck!! Going strong on a server running 24/7 for 5 months now. Read more",
+                "asin": "B0D3HQF1WD",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Best bang for your buck!! Going strong on a server running 24/7 for 5 months now.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+                "link": "https://www.amazon.com/gp/customer-reviews/RNWIGDZ4FUBGN/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D3HQF1WD",
+                "rating": 5,
+                "date": {
+                    "raw": "Reviewed in the United States on April 6, 2025",
+                    "utc": "2025-04-06T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "Luis",
+                    "link": "https://www.amazon.com/gp/profile/amzn1.account.AGOYY3QHPSYK54BCMZHCI3FSCYVQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                    "id": "AGOYY3QHPSYK54BCMZHCI3FSCYVQ"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "review_country": "us",
+                "is_global_review": false
+            },
+            {
+                "id": "R1G8OFW3C1W9L9",
+                "title": "Great AIO",
+                "body": "Have it on a 9700x @ 70f ambient temps. Idle windows11 temps are at 39c. Bop6 gaming temps hover right around 48c. The supplied thermal paste is a bit to be desired but does do the job. Love the stealth look on the cpu. I will not hesitate to buy from this company for any future builds. Read more",
+                "asin": "B0D3HQF1WD",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Have it on a 9700x @ 70f ambient temps. Idle windows11 temps are at 39c. Bop6 gaming temps hover right around 48c. The supplied thermal paste is a bit to be desired but does do the job. Love the stealth look on the cpu. I will not hesitate to buy from this company for any future builds.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+                "link": "https://www.amazon.com/gp/customer-reviews/R1G8OFW3C1W9L9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D3HQF1WD",
+                "rating": 5,
+                "date": {
+                    "raw": "Reviewed in the United States on December 15, 2024",
+                    "utc": "2024-12-15T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "E M",
+                    "link": "https://www.amazon.com/gp/profile/amzn1.account.AHYTHKW5UWGYNCGAIZA5QAPQBSLA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                    "id": "AHYTHKW5UWGYNCGAIZA5QAPQBSLA"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "images": [
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    }
+                ],
+                "review_country": "us",
+                "is_global_review": false
+            }
+        ],
+        "buybox_winner": {
+            "maximum_order_quantity": {
+                "value": 5,
+                "hard_maximum": true
+            },
+            "secondary_buybox": {
+                "offer_id": "pDCN5j3Y669Qq1CBpRh7vrxYd3YItFXFKaPzR%2FOPSnefOffdGINm4Ad0tUEi5YunrfCvM5hkWGiQz6JVU32iXHnytdTHgz4FzoozD2Zvhv9sK6aToVnCjpyMbkGiUmg3fyDtQz25qGd4WIbmy99%2FyzTx8MVL6fPUQe75FWE4mk%2BXWu6gdN6zqjT%2FT0lYuy5d",
+                "caption": "Save with Used - Good",
+                "availability": {
+                    "raw": "Only 1 left in stock - order soon.",
+                    "type": "in_stock"
+                },
+                "product_condition": "Looks and functions as if it were new. Item will come in original packaging. Missing assembly hardware.",
+                "condition": {
+                    "raw": "Save with Used - Good",
+                    "isNew": false
+                },
+                "price": {
+                    "symbol": "$",
+                    "value": 55.24,
+                    "currency": "USD",
+                    "raw": "$55.24"
+                },
+                "maximum_order_quantity": {
+                    "value": 0
+                },
+                "ship_details": "Sold by DARKROCK and Fulfilled by Amazon.",
+                "accept_free_return": true,
+                "fulfillment": {
+                    "standard_delivery": {
+                        "date": "Tuesday, April 22",
+                        "name": "FREE"
+                    },
+                    "amazon_seller": {
+                        "name": "DARKROCK"
+                    },
+                    "is_sold_by_amazon": false,
+                    "is_sold_by_third_party": true,
+                    "fulfilled_by": "Fulfilled by Amazon",
+                    "is_fulfilled_by_amazon": true,
+                    "is_fulfilled_by_third_party": false,
+                    "fulfillment_type": "p2"
+                }
+            },
+            "offer_id": "pDCN5j3Y669Qq1CBpRh7vrxYd3YItFXFKaPzR/OPSnefOffdGINm4Ad0tUEi5YunrfCvM5hkWGiQz6JVU32iXHnytdTHgz4FzoozD2Zvhv9sK6aToVnCjpyMbkGiUmg3fyDtQz25qGd4WIbmy99/yzTx8MVL6fPUQe75FWE4mk+XWu6gdN6zqjT/T0lYuy5d",
+            "mixed_offers_count": 3,
+            "mixed_offers_from": {
+                "symbol": "$",
+                "value": 55.24,
+                "currency": "USD",
+                "raw": "$55.24"
+            },
+            "is_prime": true,
+            "is_prime_exclusive_deal": false,
+            "is_amazon_fresh": false,
+            "condition": {
+                "is_new": true
+            },
+            "availability": {
+                "type": "in_stock",
+                "raw": "In Stock",
+                "dispatch_days": 1
+            },
+            "fulfillment": {
+                "type": "2p",
+                "standard_delivery": {
+                    "date": "Monday, April 21",
+                    "name": "FREE"
+                },
+                "is_sold_by_amazon": false,
+                "is_fulfilled_by_amazon": true,
+                "is_fulfilled_by_third_party": false,
+                "is_sold_by_third_party": true,
+                "third_party_seller": {
+                    "name": "DARKROCK",
+                    "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A29CBRJQKP03A5&asin=B0D3HQF1WD&ref_=dp_merchant_link&isAmazonFulfilled=1",
+                    "id": "A29CBRJQKP03A5"
+                }
+            },
+            "price": {
+                "symbol": "$",
+                "value": 64.99,
+                "currency": "USD",
+                "raw": "$64.99"
+            },
+            "shipping": {
+                "raw": "FREE"
+            }
+        },
+        "specifications": [
+            {
+                "name": "Product Dimensions",
+                "value": "15.6 x 4.7 x 1.1 inches; 5.5 Pounds"
+            },
+            {
+                "name": "Item model number",
+                "value": "D360"
+            },
+            {
+                "name": "Date First Available",
+                "value": "May 7, 2024"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "DARKROCK"
+            },
+            {
+                "name": "ASIN",
+                "value": "B0D3HQF1WD"
+            },
+            {
+                "name": "Country of Origin",
+                "value": "China"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "Water Cooling Systems"
+            },
+            {
+                "name": "Product Dimensions",
+                "value": "15.6\"L x 1.1\"W x 4.7\"H"
+            },
+            {
+                "name": "Brand",
+                "value": "DARKROCK"
+            },
+            {
+                "name": "Power Connector Type",
+                "value": "4-Pin"
+            },
+            {
+                "name": "Voltage",
+                "value": "5 Volts"
+            },
+            {
+                "name": "Cooling Method",
+                "value": "Water"
+            },
+            {
+                "name": "Compatible Devices",
+                "value": "Desktop"
+            },
+            {
+                "name": "Noise Level",
+                "value": "30 dB"
+            },
+            {
+                "name": "Maximum Rotational Speed",
+                "value": "3000 RPM"
+            },
+            {
+                "name": "Number of Items",
+                "value": "1"
+            }
+        ],
+        "specifications_flat": "Number of Items: 1. Maximum Rotational Speed: 3000 RPM. Noise Level: 30 dB. Compatible Devices: Desktop. Cooling Method: Water. Voltage: 5 Volts. Power Connector Type: 4-Pin. Brand: DARKROCK. Product Dimensions: 15.6\"L x 1.1\"W x 4.7\"H. Best Sellers Rank: Water Cooling Systems. Country of Origin: China. ASIN: B0D3HQF1WD. Manufacturer: DARKROCK. Date First Available: May 7, 2024. Item model number: D360. Product Dimensions: 15.6 x 4.7 x 1.1 inches; 5.5 Pounds.",
+        "bestsellers_rank": [
+            {
+                "category": "Water Cooling Systems",
+                "rank": 1002,
+                "link": "https://www.amazon.com/gp/bestsellers/pc/3015422011/ref=pd_zg_hrsr_pc"
+            }
+        ],
+        "manufacturer": "DARKROCK",
+        "first_available": {
+            "raw": "May 7, 2024",
+            "utc": "2024-05-07T00:00:00.000Z"
+        },
+        "dimensions": "15.6\"L x 1.1\"W x 4.7\"H",
+        "model_number": "D360",
+        "bestsellers_rank_flat": "Category: Water Cooling Systems | Rank: 1002",
+        "whats_in_the_box": [
+            "Fans &amp; Radiator"
+        ]
+    },
+    "brand_store": {
+        "id": "05A96EC3-7BC6-4877-926F-CDD98356ADCA",
+        "link": "https://www.amazon.com/stores/DARKROCK/page/05A96EC3-7BC6-4877-926F-CDD98356ADCA"
+    },
+    "user_guide": "https://m.media-amazon.com/images/I/D144f7gIUNL.pdf",
+    "frequently_bought_together": {
+        "total_price": {
+            "symbol": "$",
+            "value": 86.97,
+            "currency": "USD",
+            "raw": "$86.97"
+        },
+        "products": [
+            {
+                "asin": "B0D3HQF1WD",
+                "title": "DARKROCK D360 CPU Liquid Cooler with 360mm Radiator, Addressable RGB Lights, Pure Copper Pump, and AMD, AM5/ AM4, Intel LGA 1851/1700/1200 Brackets Ready - Black",
+                "link": "https://www.amazon.com/dp/B0D3HQF1WD",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61TjIvF56CL._AC_UL116_SR116,116_.jpg",
+                "price": {
+                    "symbol": "$",
+                    "value": 55.24,
+                    "currency": "USD",
+                    "raw": "$55.24"
+                }
+            },
+            {
+                "asin": "B07L9BDY3T",
+                "title": "ARCTIC MX-4 (4 g) - Premium Performance Thermal Paste for All Processors (CPU, GPU - PC), Very high Thermal Conductivity, Long Durability, Safe Application, Non-Conductive",
+                "link": "https://www.amazon.com/dp/B07L9BDY3T",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51fVtU+cDIL._AC_UL116_SR116,116_.jpg",
+                "price": {
+                    "symbol": "$",
+                    "value": 6.99,
+                    "currency": "USD",
+                    "raw": "$6.99"
+                }
+            },
+            {
+                "asin": "B0DFM6FWSR",
+                "title": "DARKROCK F120-3 in 1 120 mm Infinite Mirror Design Case Fans with PWM Control & ARGB Effect, Hydraulic Bearing for Low-Noise Operation - Suitable for Most PC Cooling Systems - Black",
+                "link": "https://www.amazon.com/dp/B0DFM6FWSR",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71-G7gJuRqL._AC_UL116_SR116,116_.jpg",
+                "price": {
+                    "symbol": "$",
+                    "value": 14.99,
+                    "currency": "USD",
+                    "raw": "$14.99"
+                }
+            }
+        ]
+    }
+}{
+    "request_info": {
+        "success": false,
+        "message": "'asin' or 'gtin' parameter must be present when 'url' is not supplied."
+    }
+}

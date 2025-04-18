@@ -1,0 +1,177 @@
+{
+    "request_info": {
+        "success": true,
+        "credits_used": 4,
+        "credits_remaining": 96,
+        "credits_used_this_request": 1
+    },
+    "request_parameters": {
+        "amazon_domain": "amazon.com",
+        "asin": "B0F485KDJ8",
+        "type": "product"
+    },
+    "request_metadata": {
+        "created_at": "2025-04-15T15:19:23.562Z",
+        "processed_at": "2025-04-15T15:19:26.521Z",
+        "total_time_taken": 2.96,
+        "amazon_url": "https://www.amazon.com/dp/B0F485KDJ8?th=1&psc=1"
+    },
+    "product": {
+        "title": "40CM GPU 8PIN(6+2) Graphics Card Whistling Noise with Filter Capacitor Extension Cable",
+        "search_alias": {
+            "title": "Industrial & Scientific",
+            "value": "industrial"
+        },
+        "keywords": "40CM,GPU,8PIN(6+2),Graphics,Card,Whistling,Noise,with,Filter,Capacitor,Extension,Cable",
+        "keywords_list": [
+            "40CM",
+            "8PIN(6+2)",
+            "Graphics",
+            "Card",
+            "Whistling",
+            "Noise",
+            "with",
+            "Filter",
+            "Capacitor",
+            "Extension",
+            "Cable"
+        ],
+        "is_collection": false,
+        "asin": "B0F485KDJ8",
+        "link": "https://www.amazon.com/XusLFR-Graphics-Whistling-Capacitor-Extension/dp/B0F485KDJ8",
+        "brand": "XusLFR",
+        "sell_on_amazon": false,
+        "proposition_65_warning": true,
+        "has_size_guide": true,
+        "categories": [
+            {
+                "name": "Industrial & Scientific"
+            }
+        ],
+        "description": "40CM GPU 8PIN(6+2) Graphics Card Whistling Noise With Filter Capacitor Extension Cable\n\nFeatures:\nmaterials, it is not prone to aging, and very \nGraphics card 8pin extension, increased filtering capacitance, suitable for solving most graphics card whistling, reducing or eliminating! \nAfter the installation of the filter capacitor, its function as the finalstage filter capacitor is to reduce ripplenoise \nSimultaneously solve the problem ofP-amplitude under dynamic conditions when using long wires in the power supply. \nfor gaming setups, graphics design workstations, and any that requires a and noise \n\nSpecifications:\n:PVC\nCable Length\uff1aApprox 40CM/15.75in\nConnetor: GPU 8Pin(6+2Pin)\n\nPackage Includes:\n1PC GPU 8Pin Cable\n\nNote:\nDue to the problems of lighting effects and angles, there will tolerances in the product, please understand. Please allow 0-1cm error due to the manual measurment.",
+        "sub_title": {
+            "text": "Brand: XusLFR",
+            "link": "https://www.amazon.com/s/ref=bl_dp_s_web_0?ie=UTF8&search-alias=aps&field-keywords=XusLFR"
+        },
+        "main_image": {
+            "link": "https://m.media-amazon.com/images/I/51j4p18+khL.jpg"
+        },
+        "images": [
+            {
+                "link": "https://m.media-amazon.com/images/I/51j4p18+khL._SL1500_.jpg",
+                "variant": "MAIN"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/61aRWxMM9aL._SL1500_.jpg",
+                "variant": "PT01"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/81FCFVGtvdL._SL1500_.jpg",
+                "variant": "PT02"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/61Yn0tnuKML._SL1500_.jpg",
+                "variant": "PT03"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/41SXNbcX7oL._SL1500_.jpg",
+                "variant": "PT04"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/41Fp9k3SZ7L._SL1500_.jpg",
+                "variant": "PT05"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/41A+R+r729L._SL1500_.jpg",
+                "variant": "PT06"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/51yOvIm+EML._SL1500_.jpg",
+                "variant": "PT07"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/518l7pvzplL._SL1500_.jpg",
+                "variant": "PT08"
+            }
+        ],
+        "images_count": 9,
+        "images_flat": "https://m.media-amazon.com/images/I/51j4p18+khL._SL1500_.jpg,https://m.media-amazon.com/images/I/61aRWxMM9aL._SL1500_.jpg,https://m.media-amazon.com/images/I/81FCFVGtvdL._SL1500_.jpg,https://m.media-amazon.com/images/I/61Yn0tnuKML._SL1500_.jpg,https://m.media-amazon.com/images/I/41SXNbcX7oL._SL1500_.jpg,https://m.media-amazon.com/images/I/41Fp9k3SZ7L._SL1500_.jpg,https://m.media-amazon.com/images/I/41A+R+r729L._SL1500_.jpg,https://m.media-amazon.com/images/I/51yOvIm+EML._SL1500_.jpg,https://m.media-amazon.com/images/I/518l7pvzplL._SL1500_.jpg",
+        "has_360_view": false,
+        "is_bundle": false,
+        "feature_bullets": [
+            "Simultaneously solve the problem ofP-amplitude under dynamic conditions when using long wires in the power supply.",
+            "for gaming setups, graphics design workstations, and any that requires a and noise",
+            "materials, it is not prone to aging, and very",
+            "After the installation of the filter capacitor, its function as the finalstage filter capacitor is to reduce ripplenoise",
+            "Graphics card 8pin extension, increased filtering capacitance, suitable for solving most graphics card whistling, reducing or eliminating!"
+        ],
+        "feature_bullets_count": 5,
+        "feature_bullets_flat": "Graphics card 8pin extension, increased filtering capacitance, suitable for solving most graphics card whistling, reducing or eliminating!. After the installation of the filter capacitor, its function as the finalstage filter capacitor is to reduce ripplenoise. materials, it is not prone to aging, and very. for gaming setups, graphics design workstations, and any that requires a and noise. Simultaneously solve the problem ofP-amplitude under dynamic conditions when using long wires in the power supply.",
+        "buybox_winner": {
+            "maximum_order_quantity": {
+                "value": 30,
+                "hard_maximum": true
+            },
+            "is_prime": false,
+            "is_prime_exclusive_deal": false,
+            "is_amazon_fresh": false,
+            "condition": {
+                "is_new": true
+            },
+            "availability": {
+                "type": "in_stock",
+                "raw": "In Stock",
+                "dispatch_days": 1
+            },
+            "fulfillment": {
+                "type": "3p",
+                "standard_delivery": {
+                    "date": "April 24 - May 5",
+                    "name": "FREE"
+                },
+                "is_sold_by_amazon": false,
+                "is_fulfilled_by_amazon": false,
+                "is_fulfilled_by_third_party": true,
+                "is_sold_by_third_party": true,
+                "third_party_seller": {
+                    "name": "Yyingun",
+                    "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AASANL34W49PS&asin=B0F485KDJ8&ref_=dp_merchant_link",
+                    "id": "AASANL34W49PS"
+                }
+            },
+            "price": {
+                "symbol": "$",
+                "value": 11.82,
+                "currency": "USD",
+                "raw": "$11.82"
+            },
+            "shipping": {
+                "raw": "FREE"
+            }
+        },
+        "specifications": [
+            {
+                "name": "Date First Available",
+                "value": "April 9, 2025"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "XusLFR"
+            },
+            {
+                "name": "ASIN",
+                "value": "B0F485KDJ8"
+            },
+            {
+                "name": "Country of Origin",
+                "value": "China"
+            }
+        ],
+        "specifications_flat": "Country of Origin: China. ASIN: B0F485KDJ8. Manufacturer: XusLFR. Date First Available: April 9, 2025.",
+        "manufacturer": "XusLFR",
+        "first_available": {
+            "raw": "April 9, 2025",
+            "utc": "2025-04-09T00:00:00.000Z"
+        }
+    }
+}

@@ -1,0 +1,73 @@
+B0CQ4HPJYV: AMD Ryzen 7 5700 8-Core, 16-Thread Desktop Processor
+B0BBJDS62N: AMD Ryzen 5 7600X 6-Core, 12-Thread Unlocked Desktop Processor
+B0CNZHNP1B: Nano A1 Mini PC, Intel 12th Alder Lake N100 Mini Computer, 16GB DDR4 RAM 1TB PCIe SSD Small PC, Mini Desktop Supports 4K Dual Display/USB3.0/WiFi 6/BT5.2/RJ45/VESA for Office/Home/School
+B0D6NMDNNX: AMD Ryzen™ 7 9700X 8-Core, 16-Thread Unlocked Desktop Processor
+B0D6NNRBGP: AMD Ryzen™ 9 9950X 16-Core, 32-Thread Unlocked Desktop Processor
+B0CGJDKLB8: Intel® CoreTM i9-14900K New Gaming Desktop Processor 24 (8 P-cores + 16 E-cores) with Integrated Graphics - Unlocked
+B09FWYK5M9: Intel Core i9-12900KF Gaming Desktop Processor 16 (8P+8E) Cores up to 5.2 GHz Unlocked LGA1700 600 Series Chipset 125W
+B09GYJJ1PT: Intel® Core™ i7-12700KF, 12-Core Desktop Processor (8P+4E) up to 5.0GHz, LGA1700 125W 600 Series Chipset
+B0815XFSGK: AMD Ryzen 7 5800X 8-core, 16-thread unlocked desktop processor
+B0CQ1MN1Y2: Intel Core i3-14100F Desktop Processor 4 cores (4 P-cores + 0 E-cores) up to 4.7 GHz, BX8071514100F
+B09FXKHN7M: Intel Core i7-12700KF Desktop Processor 12 (8P+4E) Cores up to 5.0 GHz Unlocked LGA1700 600 Series Chipset 125W
+B09VCHQHZ6: AMD Ryzen 7 5700X 8-Core, 16-Thread Unlocked Desktop Processor
+B0BTZB7F88: AMD Ryzen 7 7800X3D 8-Core, 16-Thread Desktop Processor
+B0BBJ59WJ4: AMD Ryzen 9 7900X 12-Core, 24-Thread Unlocked Desktop Processor
+B08166SLDF: AMD Ryzen 5 5600X 6-core, 12-thread unlocked desktop processor with Wraith Stealth cooler
+B0BBHHT8LY: AMD Ryzen 7 7700X 8-Core, 16-Thread Unlocked Desktop Processor
+B08164VTWH: AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor
+B0CQ4H4H7X: AMD Ryzen 7 5700X3D 8-Core, 16-Thread Desktop Processor
+B0BMQJWBDM: AMD Ryzen 5 7600 6-Core, 12-Thread Unlocked Desktop Processor
+B0BC7S9R5C: KAMRUI GK3Plus Mini PC, 16GB RAM 512GB M.2 SSD Mini Computers,12th Gen Alder Lake N95 (up to 3.4GHz) Micro PC, 2.5''SSD, Gigabit Ethernet,4K UHD,WiFi,BT,VESA/Home/Business Small pc
+B01MS73QK5: Intel BX80677I57500T 7th Generation Intel Core i5-7500T Processor
+B09MDFH5HY: Intel Core i5-12400F Alder Lake CPU LGA 1700 2.5 GHz 6-Core 65W 18MB Cache Desktop Processor
+B0CQ1MN1Y2: Intel Core i3-14100F Desktop Processor 4 cores (4 P-cores + 0 E-cores) up to 4.7 GHz, BX8071514100F
+B0815Y8J9N: AMD Ryzen 9 5950X 16-core, 32-thread unlocked desktop processor
+B0CHBJGFBC: Intel® Core™ i9-14900K Desktop Processor 24 cores (8 P-cores + 16 E-cores) up to 6.0 GHz
+B0CW124C2R: Kids Tablet 10 Inch, Android 13 Tablet 4GB+64GB 8-Core CPU WiFi 6 12H Battery Life Parental Control 1280 * 800 HD Display Dual Cameras Shockproof Case Pre-Installed Educational Apps
+B09FWYK5M9: Intel Core i9-12900KF Gaming Desktop Processor 16 (8P+8E) Cores up to 5.2 GHz Unlocked LGA1700 600 Series Chipset 125W
+B0CQ1Y7KHV: Intel Core i5-14400F Desktop Processor 10 cores (6 P-cores + 4 E-cores) up to 4.7 GHz
+B09NPJX7PV: Intel® Core™ 12th Gen i3-12100F desktop processor, featuring PCIe Gen 5.0 & 4.0 support, DDR5 and DDR4 support. Discrete graphics required.
+B0DFK2MH2D: Intel Core Ultra 7 Desktop Processor 265K - 20 cores (8 P-cores + 12 E-cores) up to 5.5 GHz
+B09NPJRDGD: Intel Core i5 Core 12400F Desktop Processor 18M Cache, up to 4.40 GHz
+B09FXNVDBJ: Intel Core i7-12700K Gaming Desktop Processor with Integrated Graphics and 12 (8P+4E) Cores up to 5.0 GHz Unlocked LGA1700 600 Series Chipset 125W
+B0B2DTFXNF: Dell OptiPlex 7040 SFF Desktop Computer PC Intel Quad Core i5-6500 3.20GHz AX200 Built-in WiFi 6 Bluetooth 16GB DDR4 512GB NVMe M.2 SSD 2TB HDD HDMI Wireless Keyboard & Mouse Windows10 Pro (Renewed)
+B0CNZHNP1B: Nano A1 Mini PC, Intel 12th Alder Lake N100 Mini Computer, 16GB DDR4 RAM 1TB PCIe SSD Small PC, Mini Desktop Supports 4K Dual Display/USB3.0/WiFi 6/BT5.2/RJ45/VESA for Office/Home/School
+B098XWYF14: Lenovo ThinkCentre Tiny 50q Intel Octa Core i5-13420H (Beats Intel i7-1260P), 16GB RAM, 512GB NVMe, DisplayPort, HDMI, WiFi 6 + BT, RJ-45, W11P, Business Desktop
+B0CQ4JV8D5: AMD Ryzen 5 8500G 6-Core, 12-Thread Desktop Processor
+B0D6NNDQ92: AMD Ryzen™ 7 5800XT 8-Core, 16-Thread Unlocked Desktop Processor
+B0BW8JSQCH: Beelink Mini S12 Pro Mini PC - 12th Gen Intel N100 (Up to 3.4GHz), 16GB DDR4, 500GB SSD, 4K Dual Display, WiFi 6, BT 5.2, 1000Mbps LAN - Low Power Mini Desktop Computer
+B0CQ1M1YXM: Intel Core i5-14400 Desktop Processor 10 cores (6 P-cores + 4 E-cores) up to 4.7 GHz, BX8071514400
+B0B1B64NKD: Beelink EQi12 Mini PC Intel i5 12450H(8C/12T,up to 4.4GHZ),24GB LPDDR5 5200MHz 500GB PCle4.0 SSD Mini Computer Supports 4K Dual Screen Display/WiFi6/BT5.2/Dual Gigabit LAN
+B0DRD4JCJZ: for Ford F150 Radio Upgrade 2013 2014,MekedeTech 9 inch Android Stereo Navigation Replacement,8 Core CPU Head Unit Compatible with Wireless CarPlay&Android Auto,Free Reverse Camera
+B0CQ4JBKW3: AMD Ryzen 7 8700G 8-Core, 16-Thread Desktop Processor
+B09FXDLX95: Intel Core i9-12900K Gaming Desktop Processor with Integrated Graphics and 16 (8P+8E) Cores up to 5.2 GHz Unlocked LGA1700 600 Series Chipset 125W
+B0BBHD5D8Y: AMD Ryzen 9 7950X 16-Core, 32-Thread Unlocked Desktop Processor
+B07SXMZLPK: AMD Ryzen 7 3700X 8-Core, 16-Thread Unlocked Desktop Processor with Wraith Prism LED Cooler
+B09VCHR1VH: AMD Ryzen 5 5600 6-Core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler
+B09FX4D72T: Intel Core i5-12600K Desktop Processor with Integrated Graphics and 10 (6P+4E) Cores up to 4.9 GHz Unlocked LGA1700 600 Series Chipset 125W
+B099KSJN8P: KAMRUI Mini PC Computer, Intel Processor N97 (up to 3.6 GHz), 16GB DDR4 RAM 256GB M.2 SSD, Mini Desktop Computer Support Dual 4K, WiFi, Bluetooth, Ethernet, HTPC for Business, Education, Home
+B0BMQHSCVF: AMD Ryzen 7 7700 8-Core, 16-Thread Unlocked Desktop Processor
+B0CK2ZQJZ6: AMD Ryzen™ Threadripper™ PRO 7995WX 96-Core, 192-Thread Processor
+B0CCDPDBX6: GMKtec Mini PC Intel N150(Turbo 3.6GHz) 12GB DDR5 512GB SSD Dual LAN, Desktop Mini Computer 4K Triple Display, WiFi6, BT5.2, Energy Efficient
+B0BCF57FL5: Intel Core i7-13700K Gaming Desktop Processor 16 cores (8 P-cores + 8 E-cores) with Integrated Graphics - Unlocked
+B0CQ4DTJYX: AMD Ryzen 5 5600GT 6-Core, 24-Thread Desktop Processor
+B09FXFJW2F: Intel Core i5-12600KF Desktop Processor 10 (6P+4E) Cores up to 4.9 GHz Unlocked LGA1700 600 Series Chipset 125W
+B0CQ3142LB: Intel Core i5-14400F LGA 1700 Processor BX8071514400F
+B0CXV7MG6Q: SABRENT Rocket 5 1TB Advanced Performance Internal M.2 PCIe GEN 5 14GB/s X4 NVMe SSD (SB-RKT5-1TB)
+B099KSJN8P: KAMRUI Mini PC Computer, Intel Processor N97 (up to 3.6 GHz), 16GB DDR4 RAM 256GB M.2 SSD, Mini Desktop Computer Support Dual 4K, WiFi, Bluetooth, Ethernet, HTPC for Business, Education, Home
+B0BCF5CZ16: Intel Core i5-13600KF Desktop Processor 14 cores (6 P-cores + 8 E-cores) - Unlocked
+B0CQ1MN1Y2: Intel Core i3-14100F Desktop Processor 4 cores (4 P-cores + 0 E-cores) up to 4.7 GHz, BX8071514100F
+B0BCDR9M33: Intel Core i5-13600K Desktop Processor 14 (6 P-cores + 8 E-cores) with Integrated Graphics - Unlocked
+B0D3HPS5MJ: MINISFORUM UN1290 Mini PC Intel Core i9-12900HK 14 Cores/20 Threads,up to 5.0GHz 32GB RAM 512GB PCIe4.0 SSD,2.5 G RJ45 LAN Mini Computer,HDMI/USB-C/DP1.4,5X USB Ports, WiFi 6&BT5.2
+B0DT7JDLDH: Intel® Core™ Ultra 9 Desktop Processor 285 24 cores (8 P-cores + 16 E-cores) up to 5.6 GHz
+B0BTRH9MNS: AMD Ryzen™ 9 7950X3D 16-Core, 32-Thread Desktop Processor
+B0BN61LYFB: Intel Core i5-13400F 2.5GHz (4.6 Turbo) 10 Core LGA 1700 Desktop Processor (Raptor Lake)
+B09VCRQVWM: AMD Ryzen 3 4100 4-Core, 8-Thread Unlocked Desktop Processor with Wraith Stealth Cooler
+B0DMF55FTP: TRIGKEY Mini PC K-N95, Intel Alder Lake N95(up to 3.4GHz, 4C/4T), 8GB DDR4 RAM 256GB M.2 SSD, Mini Desktop PC Computer Support Max 4K 60Hz Dual HDMI Display/USB3.2 *3/WiFi5/BT5.0/Home/Office/Education
+B0CK2R6DVS: AMD Ryzen™ Threadripper™ 7980X 64-Core, 128-Thread Processor
+B0DFKC99VL: Intel Core Ultra 9 285K Tetracosa-core [24 Core] 3.70 GHz Processor - OEM Pack - Box
+B07STGHZK8: AMD Ryzen 3 3200G 4-core unlocked desktop processor with Radeon Graphics
+B0BVFS94J5: Beelink Mini S12 Pro Mini PC, Intel 12th Gen N100 (4C/4T, up to 3.4GHz), 16GB DDR4, 500GB SSD, Desktop Computer Support Dual HDMI 4K@60Hz, WiFi 6, BT5.2, NAS, Low Power
+B0CK2W3WFP: AMD Ryzen™ Threadripper™ 7970X 32-Core, 64-Thread Processor
+B0DKF15XQJ: Beelink SER8 Mini PC, AMD Ryzen 7 8745HS(8C/16T, up to 4.9GHz), 32GB DDR5 RAM 1TB PCle4.0 SSD, SER8 Mini Computer Support 4K@144Hz, Tirple Display, HDMI+DP, WiFi6, BT5.2, USB4
+B0DFK2WHF8: Intel Core Ultra 7 Desktop Processor 265KF - 20 cores (8 P-cores + 12 E-cores) up to 5.5 GHz
